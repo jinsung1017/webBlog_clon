@@ -1,0 +1,33 @@
+[
+{
+  "model": "posts.post",
+  "pk": 6,
+  "fields": {
+    "title": "titla_data_01",
+    "content": "content_date_01",
+    "dt_created": "2023-01-14T01:24:46.947Z",
+    "dt_modified": "2023-01-14T1:24:46.947Z"
+  }
+},
+
+  {
+  "model": "posts.post",
+  "pk": 10,
+  "fields": {
+    "title": "titla_data_02",
+    "content": "content_date_03",
+    "dt_created": "2023-01-14T04:24:46.947Z",
+    "dt_modified": "2023-01-14T04:24:46.947Z"
+  }
+},
+  {
+  "model": "posts.post",
+  "pk": 11,
+  "fields": {
+    "title": "titla_data_03",
+    "content": "content_date_03",
+    "dt_created": "2023-01-14T05:24:46.947Z",
+    "dt_modified": "2023-01-14T05:24:46.947Z"
+  }
+}
+]
